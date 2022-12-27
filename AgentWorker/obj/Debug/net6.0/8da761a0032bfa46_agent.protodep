@@ -1,0 +1,3 @@
+obj\Debug\net6.0/Agent.cs \
+obj\Debug\net6.0/AgentGrpc.cs: C:/Users/kail_/.nuget/packages/grpc.tools/2.50.0/build/native/include/google/protobuf/timestamp.proto\
+ ../Protos/agent.proto
