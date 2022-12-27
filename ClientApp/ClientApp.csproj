@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\LabsDB\LabsDB.csproj" />
+      <ProjectReference Include="..\MainApp\MainApp.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Protobuf Include="..\Protos\agent.proto" GrpcServices="Agent" />
+    </ItemGroup>
+
+</Project>
