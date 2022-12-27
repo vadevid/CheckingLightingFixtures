@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9x9dewmgRwLBy6azEEjg6gv1cdbw2ElErK3Yx4aVjTQuxgWFOPdWSj//AR3CvddpjibS3Hh87zeYKlyUTEYtA==",
+  "dgSpecHash": "Jfz+GO0VXI19ouhzLpBd+SMEw7JbqXQbs0Q1G1Led9CeB+rvk9/cs26IQijMC9ajSAG2gFqhI+XqGEJsb90biw==",
   "success": true,
-  "projectFilePath": "C:\\vadevid\\CheckingLightingFixtures-master\\AgentWorker\\AgentWorker.csproj",
+  "projectFilePath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentWorker\\AgentWorker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kail_\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\kail_\\.nuget\\packages\\grpc.core.api\\2.50.0\\grpc.core.api.2.50.0.nupkg.sha512",

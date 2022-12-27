@@ -1661,11 +1661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vadevid\\CheckingLightingFixtures-master\\ClientApp\\ClientApp.csproj",
+      "projectUniqueName": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\ClientApp\\ClientApp.csproj",
       "projectName": "ClientApp",
-      "projectPath": "C:\\vadevid\\CheckingLightingFixtures-master\\ClientApp\\ClientApp.csproj",
+      "projectPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\ClientApp\\ClientApp.csproj",
       "packagesPath": "C:\\Users\\kail_\\.nuget\\packages\\",
-      "outputPath": "C:\\vadevid\\CheckingLightingFixtures-master\\ClientApp\\obj\\",
+      "outputPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\ClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kail_\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1680,11 +1680,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\vadevid\\CheckingLightingFixtures-master\\LabsDB\\LabsDB.csproj": {
-              "projectPath": "C:\\vadevid\\CheckingLightingFixtures-master\\LabsDB\\LabsDB.csproj"
+            "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\LabsDB\\LabsDB.csproj": {
+              "projectPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\LabsDB\\LabsDB.csproj"
             },
-            "C:\\vadevid\\CheckingLightingFixtures-master\\MainApp\\MainApp.csproj": {
-              "projectPath": "C:\\vadevid\\CheckingLightingFixtures-master\\MainApp\\MainApp.csproj"
+            "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\MainApp\\MainApp.csproj": {
+              "projectPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\MainApp\\MainApp.csproj"
             }
           }
         }

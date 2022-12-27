@@ -8,29 +8,29 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClientApp
 build_property.RootNamespace = ClientApp
-build_property.ProjectDir = C:\vadevid\CheckingLightingFixtures-master\ClientApp\
+build_property.ProjectDir = C:\Users\kail_\RiderProjects\CheckingLightingFixtures\ClientApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\vadevid\CheckingLightingFixtures-master\ClientApp
+build_property.MSBuildProjectDirectory = C:\Users\kail_\RiderProjects\CheckingLightingFixtures\ClientApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/vadevid/CheckingLightingFixtures-master/ClientApp/Views/Home/Index.cshtml]
+[C:/Users/kail_/RiderProjects/CheckingLightingFixtures/ClientApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/vadevid/CheckingLightingFixtures-master/ClientApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kail_/RiderProjects/CheckingLightingFixtures/ClientApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/vadevid/CheckingLightingFixtures-master/ClientApp/Views/_ViewImports.cshtml]
+[C:/Users/kail_/RiderProjects/CheckingLightingFixtures/ClientApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/vadevid/CheckingLightingFixtures-master/ClientApp/Views/_ViewStart.cshtml]
+[C:/Users/kail_/RiderProjects/CheckingLightingFixtures/ClientApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/vadevid/CheckingLightingFixtures-master/ClientApp/Views/Shared/_Layout.cshtml]
+[C:/Users/kail_/RiderProjects/CheckingLightingFixtures/ClientApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-kk7uqfacrs

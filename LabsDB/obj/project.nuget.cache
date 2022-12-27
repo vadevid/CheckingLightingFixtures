@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t2g5INzlTO2vONzAHuml/uxO5I/v8dBGsLEJpyptsZnHYb2bq3AEh7Blmh/cVK1eEbTcQTeVZj/c2YVCgPANYQ==",
+  "dgSpecHash": "0C5Jg4moT6q/FjIPe39GxYo5ynnfo6teSMpnXs9mMW55qNUYh4mc9gLZ+41xMZm0B2ccw07bbPoLo3pZ0qi3yA==",
   "success": true,
-  "projectFilePath": "C:\\vadevid\\CheckingLightingFixtures-master\\LabsDB\\LabsDB.csproj",
+  "projectFilePath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\LabsDB\\LabsDB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kail_\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.11\\microsoft.entityframeworkcore.6.0.11.nupkg.sha512",
     "C:\\Users\\kail_\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.11\\microsoft.entityframeworkcore.abstractions.6.0.11.nupkg.sha512",

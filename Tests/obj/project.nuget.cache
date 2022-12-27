@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CsVie4pPFOZBYHUz4jhQU3Sa/+qKaxBUgBY31f34jrOHnnNxr/unlih+Y3nJCxF9SElRzAExN784Z64cldJ/EQ==",
+  "dgSpecHash": "2de3fiJ21hH6jxQhMcPGIV8QHh5YjxpP6C02gF0WDVfRhVGImxHSROXmR2GdGRQlbbr5ha3U4vutchCC3uXoNQ==",
   "success": true,
-  "projectFilePath": "C:\\vadevid\\CheckingLightingFixtures-master\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kail_\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\kail_\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",

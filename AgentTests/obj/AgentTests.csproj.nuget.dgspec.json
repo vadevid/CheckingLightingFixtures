@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\vadevid\\CheckingLightingFixtures-master\\AgentTests\\AgentTests.csproj": {}
+    "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentTests\\AgentTests.csproj": {}
   },
   "projects": {
-    "C:\\vadevid\\CheckingLightingFixtures-master\\AgentTests\\AgentTests.csproj": {
+    "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentTests\\AgentTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\vadevid\\CheckingLightingFixtures-master\\AgentTests\\AgentTests.csproj",
+        "projectUniqueName": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentTests\\AgentTests.csproj",
         "projectName": "AgentTests",
-        "projectPath": "C:\\vadevid\\CheckingLightingFixtures-master\\AgentTests\\AgentTests.csproj",
+        "projectPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentTests\\AgentTests.csproj",
         "packagesPath": "C:\\Users\\kail_\\.nuget\\packages\\",
-        "outputPath": "C:\\vadevid\\CheckingLightingFixtures-master\\AgentTests\\obj\\",
+        "outputPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kail_\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\vadevid\\CheckingLightingFixtures-master\\AgentWorker\\AgentWorker.csproj": {
-                "projectPath": "C:\\vadevid\\CheckingLightingFixtures-master\\AgentWorker\\AgentWorker.csproj"
+              "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentWorker\\AgentWorker.csproj": {
+                "projectPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentWorker\\AgentWorker.csproj"
               },
-              "C:\\vadevid\\CheckingLightingFixtures-master\\LabsDB\\LabsDB.csproj": {
-                "projectPath": "C:\\vadevid\\CheckingLightingFixtures-master\\LabsDB\\LabsDB.csproj"
+              "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\LabsDB\\LabsDB.csproj": {
+                "projectPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\LabsDB\\LabsDB.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\vadevid\\CheckingLightingFixtures-master\\AgentWorker\\AgentWorker.csproj": {
+    "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentWorker\\AgentWorker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\vadevid\\CheckingLightingFixtures-master\\AgentWorker\\AgentWorker.csproj",
+        "projectUniqueName": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentWorker\\AgentWorker.csproj",
         "projectName": "AgentWorker",
-        "projectPath": "C:\\vadevid\\CheckingLightingFixtures-master\\AgentWorker\\AgentWorker.csproj",
+        "projectPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentWorker\\AgentWorker.csproj",
         "packagesPath": "C:\\Users\\kail_\\.nuget\\packages\\",
-        "outputPath": "C:\\vadevid\\CheckingLightingFixtures-master\\AgentWorker\\obj\\",
+        "outputPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\AgentWorker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kail_\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -163,14 +163,14 @@
         }
       }
     },
-    "C:\\vadevid\\CheckingLightingFixtures-master\\LabsDB\\LabsDB.csproj": {
+    "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\LabsDB\\LabsDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\vadevid\\CheckingLightingFixtures-master\\LabsDB\\LabsDB.csproj",
+        "projectUniqueName": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\LabsDB\\LabsDB.csproj",
         "projectName": "LabsDB",
-        "projectPath": "C:\\vadevid\\CheckingLightingFixtures-master\\LabsDB\\LabsDB.csproj",
+        "projectPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\LabsDB\\LabsDB.csproj",
         "packagesPath": "C:\\Users\\kail_\\.nuget\\packages\\",
-        "outputPath": "C:\\vadevid\\CheckingLightingFixtures-master\\LabsDB\\obj\\",
+        "outputPath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\LabsDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kail_\\AppData\\Roaming\\NuGet\\NuGet.Config"

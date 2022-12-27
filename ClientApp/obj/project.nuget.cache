@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K0r1EgUHJHiOGdqP8iKwm/DkPRExXbtkYH3eodbgY5BuKPf9HVQgSw0rNz1a4oAgDJda5ktWb2P/49pi2NLhlA==",
+  "dgSpecHash": "ztj+2oKoEWKq9BijEUElX7yOrbQTmkRdtcZzoh3SiiCG9XJbZkaf2eF2mVQSzmP8XsDt9takxY1tq7SB8GjVTw==",
   "success": true,
-  "projectFilePath": "C:\\vadevid\\CheckingLightingFixtures-master\\ClientApp\\ClientApp.csproj",
+  "projectFilePath": "C:\\Users\\kail_\\RiderProjects\\CheckingLightingFixtures\\ClientApp\\ClientApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kail_\\.nuget\\packages\\google.protobuf\\3.18.0\\google.protobuf.3.18.0.nupkg.sha512",
     "C:\\Users\\kail_\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",
