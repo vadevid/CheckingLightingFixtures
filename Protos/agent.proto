@@ -1,0 +1,32 @@
+﻿syntax = "proto3";
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "MainApp";
+
+package agent;
+
+service Agent{
+  rpc Auth (AuthRequest) returns (EmployeeMessage);
+  rpc AddNewLamp (NewRequest) returns (NewResponse);
+}
+
+message AuthRequest{
+  string login = 1;
+  string password = 2;
+}
+
+message EmployeeMessage{
+  int32 id = 1;
+  string login = 2;
+  string password = 3;
+}
+
+message NewRequest{
+  bool glows = 1;
+  int32 room = 2;
+  int32 employee = 3;
+}
+
+message NewResponse{
+  bool res = 1;
+}
